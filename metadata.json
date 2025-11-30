@@ -1,0 +1,5 @@
+{
+  "name": "Zero-G Explorer",
+  "description": "A lightweight, browser-based space station exploration experience with zero-gravity movement mechanics.",
+  "requestFramePermissions": []
+}
